@@ -36,7 +36,8 @@ This project demonstrates end-to-end analytics: data modeling (star schema), Pow
 - Top products drive most revenue — Laptop & Smartphone top the list.
 
 ## Contact
-**Kishan Shetty** — linkedin.com/in/kishan-shetty — github.com/YourGitHubUsername
+**Kishan Shetty** — linkedin.com/in/kishan-shetty-019170362/ — github.com/Kishan877000
+
 
 
 
