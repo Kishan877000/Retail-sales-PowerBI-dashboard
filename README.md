@@ -2,7 +2,7 @@
   <img src="dashboard_preview.png.png" width="800"/>
 </p>
 
-<h1 align="center">Retail Sales Dashboard (Power BI) - by Kishan Shetty</h1>
+
 
 
 
@@ -37,6 +37,7 @@ This project demonstrates end-to-end analytics: data modeling (star schema), Pow
 
 ## Contact
 **Kishan Shetty** — linkedin.com/in/kishan-shetty — github.com/YourGitHubUsername
+
 
 
 
