@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="dashboard_preview.png" alt="Retail Sales Dashboard by Kishan Shetty" width="800"/>
+</p>
+
+<h1 align="center">Retail Sales Dashboard (Power BI) - by Kishan Shetty</h1>
+
+
+
+
 # Retail Sales Analytics Dashboard — Power BI
 **Author:** Kishan Shetty
 
@@ -28,3 +37,4 @@ This project demonstrates end-to-end analytics: data modeling (star schema), Pow
 
 ## Contact
 **Kishan Shetty** — linkedin.com/in/kishan-shetty — github.com/YourGitHubUsername
+
